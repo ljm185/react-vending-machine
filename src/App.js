@@ -21,7 +21,7 @@ function App() {
       </header> */}
       <p>Welcome to the React Vending Machine! Deposit some money and help yourself to a snack or two!</p>
 
-      <p>Add Money</p>
+      <p>ADD MONEY</p>
     </div>
   );
 }
