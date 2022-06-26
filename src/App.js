@@ -19,9 +19,9 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <p>Welcome to the React Vending Machine! Deposit some money and help yourself to a snack or two!!</p>
+      <p>Welcome to the React Vending Machine! Deposit some money and help yourself to a snack or two!</p>
 
-      <p>ADD MONEY!!</p>
+      <p>ADD MONEY!</p>
     </div>
   );
 }
